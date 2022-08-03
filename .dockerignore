@@ -1,0 +1,7 @@
+.pytest_cache/
+__pycache__/
+assets/node_modules/
+
+.dockerignore
+
+# todo...

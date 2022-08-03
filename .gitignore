@@ -33,4 +33,4 @@ venv
 logs
 migrations/schema.sql
 .flaskenv
-.vscode
+
